@@ -1,0 +1,45 @@
+[
+    {
+        "nome": "Branca de Neve",
+        "idade": 18,
+        "bio": "Se você me acordar com um beijo eu chamo a policia",
+        "foto": "../../assets/branca-de-neve.jpg"
+    },
+    {
+        "nome": "Edna Moda",
+        "idade": 65,
+        "bio": "Nada de capa",
+        "foto": "../../assets/edna-moda.jpg"
+    },
+    {
+        "nome": "Bela sem Fera",
+        "idade": 18,
+        "bio": "Quero uma rosa",
+        "foto": "../../assets/bela.webp"
+    },
+    {
+        "nome": "Cruella",
+        "idade": "Uma dama nunca revela a sua idade",
+        "bio": "Quero um parceiro que adore cachorro e que tenha vários em casa, principalmente dalmatas",
+        "foto": "../../assets/cruella-desenho.jpg"
+    },
+    {
+        "nome": "Dr. Facilier",
+        "idade": 32,
+        "bio": "Abracadabra",
+        "foto": "../../assets/DrFacilier.webp"
+    },
+    {
+        "nome": "Hades",
+        "idade": 2.722,
+        "bio": "Procuro alguem que goste de um martini no final da tarde e que não seja preconceituoso com religiões.PS: Fui eu que inventei a moda do cabelo azul",
+        "foto": "../../assets/hades.webp"
+    },
+    {
+        "nome": "Pooh",
+        "idade": 90,
+        "bio": "Assim que eu te vi, soube que as melhores aventuras estavam por vir",
+        "foto": "../../assets/pooh.jpg"
+    }
+
+]
