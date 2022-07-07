@@ -16,7 +16,7 @@ export const Perfis = () => {
     const GetProfileToChoose = () => {
         axios.get(`https://us-central1-missao-newton.cloudfunctions.net/astroMatch/michelle-machado-alves/person`)
             .then((res) => {
-                // setProfile(res.data.profile)
+                setProfile(res.data.profile)
                 console.log(res)
 
             })
